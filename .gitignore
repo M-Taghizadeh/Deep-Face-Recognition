@@ -1,0 +1,8 @@
+.ropeproject
+__pycache__/*
+temp/
+datasets/
+metadata/
+links/
+files/
+
